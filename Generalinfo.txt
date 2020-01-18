@@ -1,0 +1,32 @@
+
+IDE choice:
+Visual Studio/IntelliJ IDEA
+
+GITHUB
+
+FINAL:
+
+Web app
+
+ROLES: (Could change)
+
+Sawyer - Backend/Logic - 
+Oleg - Front/looks
+Jeff - Presenation/looks
+Millad - Backend/Serverside
+
+Django framework(Python) + vue.js(java)
+TO LOOK OVER:
+- Nginx (Server)
+- HTML/CSS
+- vuetify (vue.js framework)
+
+Django(back) <—json—> vue.js(front)
+
+Ideas:
+
+- App using only front employing already given apis'
+
+- University life tracker + widgets
+
+Add urs so we have a list going
